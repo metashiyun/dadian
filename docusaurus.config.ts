@@ -29,6 +29,11 @@ const config: Config = {
     i18n: {
         defaultLocale: 'zh-Hans',
         locales: ['zh-Hans', 'en'],
+        localeConfigs: {
+            en: {
+                htmlLang: 'en-US',
+            }
+        },
     },
 
     presets: [
@@ -74,6 +79,10 @@ const config: Config = {
                 },
                 {to: '/pages', label: '散文和表格', position: 'left'},
                 {to: '/blog', label: '网志', position: 'left'},
+                {
+                    type: 'localeDropdown',
+                    position: 'right',
+                },
                 {
                     href: 'https://github.com/metashiyun',
                     label: '吉特埠',
@@ -129,7 +138,7 @@ const config: Config = {
         colorMode: {
             defaultMode: 'light',
             disableSwitch: true,
-            respectPrefersColorScheme: true,
+            respectPrefersColorScheme: false,
         }
     } satisfies Preset.ThemeConfig,
 };

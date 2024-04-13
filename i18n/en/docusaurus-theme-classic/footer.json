@@ -1,0 +1,38 @@
+{
+  "link.title.元石云": {
+    "message": "metaShiyun",
+    "description": "The title of the footer links column with title=元石云 in the footer"
+  },
+  "link.title.大典": {
+    "message": "Shiyun Dadian",
+    "description": "The title of the footer links column with title=大典 in the footer"
+  },
+  "link.title.更多": {
+    "message": "More",
+    "description": "The title of the footer links column with title=更多 in the footer"
+  },
+  "link.item.label.官方网站": {
+    "message": "Homepage",
+    "description": "The label of footer link with label=官方网站 linking to https://www.shiyun.org"
+  },
+  "link.item.label.文档编": {
+    "message": "Docs",
+    "description": "The label of footer link with label=文档编 linking to /docs/intro"
+  },
+  "link.item.label.散文编": {
+    "message": "Misc",
+    "description": "The label of footer link with label=散文编 linking to /pages"
+  },
+  "link.item.label.网志编": {
+    "message": "Blog",
+    "description": "The label of footer link with label=网志编 linking to /blog"
+  },
+  "link.item.label.吉特埠": {
+    "message": "GitHub",
+    "description": "The label of footer link with label=吉特埠 linking to https://github.com/metaShiyun"
+  },
+  "copyright": {
+    "message": "© 2014 - 2024 metaShiyun | The content of this website is fictional and not connected to any real person, organization, or event.",
+    "description": "The footer copyright"
+  }
+}

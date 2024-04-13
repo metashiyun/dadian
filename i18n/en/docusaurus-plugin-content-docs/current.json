@@ -1,0 +1,66 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.docsSidebar.category.总览": {
+    "message": "Overview",
+    "description": "The label for category 总览 in sidebar docsSidebar"
+  },
+  "sidebar.docsSidebar.category.企划": {
+    "message": "Projects",
+    "description": "The label for category 企划 in sidebar docsSidebar"
+  },
+  "sidebar.docsSidebar.category.社区信息": {
+    "message": "Community",
+    "description": "The label for category 社区信息 in sidebar docsSidebar"
+  },
+  "sidebar.docsSidebar.category.红石云工场": {
+    "message": "Shiyun Works",
+    "description": "The label for category 红石云工场 in sidebar docsSidebar"
+  },
+  "sidebar.docsSidebar.doc.首页": {
+    "message": "Homepage",
+    "description": "The label for the doc item 首页 in sidebar docsSidebar, linking to the doc intro"
+  },
+  "sidebar.docsSidebar.doc.基本信息": {
+    "message": "Information",
+    "description": "The label for the doc item 基本信息 in sidebar docsSidebar, linking to the doc overview/info"
+  },
+  "sidebar.docsSidebar.doc.关于白名单": {
+    "message": "Allowlist",
+    "description": "The label for the doc item 关于白名单 in sidebar docsSidebar, linking to the doc overview/allowlist"
+  },
+  "sidebar.docsSidebar.doc.关于登录验证": {
+    "message": "Login",
+    "description": "The label for the doc item 关于登录验证 in sidebar docsSidebar, linking to the doc overview/login"
+  },
+  "sidebar.docsSidebar.doc.限定活动": {
+    "message": "Limited Events",
+    "description": "The label for the doc item 限定活动 in sidebar docsSidebar, linking to the doc kikaku/limited"
+  },
+  "sidebar.docsSidebar.doc.石云宇宙 ShiyunVerse": {
+    "message": "ShiyunVerse",
+    "description": "The label for the doc item 石云宇宙 ShiyunVerse in sidebar docsSidebar, linking to the doc kikaku/shiyun-verse"
+  },
+  "sidebar.docsSidebar.doc.服务端和插件": {
+    "message": "SSMP / Plugins",
+    "description": "The label for the doc item 服务端和插件 in sidebar docsSidebar, linking to the doc kikaku/ssmp"
+  },
+  "sidebar.docsSidebar.doc.玩家群组": {
+    "message": "Community",
+    "description": "The label for the doc item 玩家群组 in sidebar docsSidebar, linking to the doc community"
+  },
+  "sidebar.docsSidebar.doc.基本规则": {
+    "message": "Basic Rules",
+    "description": "The label for the doc item 基本规则 in sidebar docsSidebar, linking to the doc shiyun-works/basic-rule"
+  },
+  "sidebar.docsSidebar.doc.区划总览": {
+    "message": "Regions",
+    "description": "The label for the doc item 区划总览 in sidebar docsSidebar, linking to the doc shiyun-works/regions"
+  },
+  "sidebar.docsSidebar.doc.地图和GIS": {
+    "message": "Maps / GIS",
+    "description": "The label for the doc item 地图和GIS in sidebar docsSidebar, linking to the doc shiyun-works/maps"
+  }
+}

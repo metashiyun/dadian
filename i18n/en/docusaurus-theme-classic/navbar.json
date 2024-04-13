@@ -1,0 +1,26 @@
+{
+  "title": {
+    "message": "Shiyun Dadian",
+    "description": "The title in the navbar"
+  },
+  "logo.alt": {
+    "message": "Shiyun Dadian",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.文档": {
+    "message": "Docs",
+    "description": "Navbar item with label 文档"
+  },
+  "item.label.散文和表格": {
+    "message": "Misc / Forms",
+    "description": "Navbar item with label 散文和表格"
+  },
+  "item.label.网志": {
+    "message": "Blog",
+    "description": "Navbar item with label 网志"
+  },
+  "item.label.吉特埠": {
+    "message": "GitHub",
+    "description": "Navbar item with label 吉特埠"
+  }
+}
