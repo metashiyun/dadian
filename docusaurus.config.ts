@@ -102,7 +102,7 @@ const config: Config = {
                         },
                         {
                             label: '散文编',
-                            to: '/docs/misc/index',
+                            to: '/pages',
                         },
                         {
                             label: '网志编',
