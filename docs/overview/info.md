@@ -4,7 +4,7 @@
 
 ### 「红石云工场 Shiyun Works」（2015年起）
 
-服务端版本为：`Paper 1.20.4`
+服务端版本为：`Paper 1.21.1`
 
 为保证安全请务必使用原版Minecraft客户端进入。
 
@@ -30,4 +30,4 @@
 ### 管理组联系方式
 
 - 综合问题：[点击发送邮件](mailto:scchan@shiyun.org)
-- Minecraft相关服务：[点击发送邮件](mailto:si@shiyun.org)
+- 服务器相关问题：[点击发送邮件](mailto:si@shiyun.org)

@@ -4,9 +4,9 @@
 
 ### Shiyun Works (since 2015)
 
-Server version: `Paper 1.20.4`
+Server version: `Paper 1.21.1`
 
-For your security, unmodified original Minecraft client is recommended.
+For your security, the original Minecraft client is recommended.
 
 You may want to use a modpack to set up the game environment more quickly, check [modpacks recommendation](/pages/modpack/) (we never distribute any forms of Minecraft copies).
 
@@ -16,7 +16,7 @@ Shiyun Works is a allowlisted (whitelisted) server.
 
 Server address: `ohio.shiyun.org`
 
-China mainland: `play.shiyun.org`
+For players in East Asia: `play.shiyun.org`
 
 Feel free to contact with us if you have any questions.
 
@@ -30,4 +30,4 @@ Feel free to contact with us if you have any questions.
 ### Contact with Us
 
 - [Email](mailto:scchan@shiyun.org)
-- For Minecraft-related questions: [Email](mailto:si@shiyun.org)
+- For server-related questions: [Email](mailto:si@shiyun.org)
